@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Takata de Alvarenga</h1>
 <h3 align="center">FrontEnd developer || HTML || CSS || JavaScript</h3>
 
-- 🌱 I’m currently learning **Laravel PHP, TypeScript, React**
+- 🌱 I’m currently learning **Laravel PHP, TypeScript, React, Flutter**
 
 - 📫 How to reach me **felipetakatadealvarenga@gmail.com**
 
