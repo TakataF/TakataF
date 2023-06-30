@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Takata de Alvarenga</h1>
-<h3 align="center">FrontEnd developer || HTML || CSS || JavaScript</h3>
+<h3 align="center">FullStack developer</h3>
 
-- 🌱 I’m currently learning **Laravel PHP, TypeScript, React, Angular**
+- 🌱 I’m currently learning **TypeScript, React, Angular, Python, NestJs**
 
 - 📫 How to reach me **felipetakatadealvarenga@gmail.com**
 
